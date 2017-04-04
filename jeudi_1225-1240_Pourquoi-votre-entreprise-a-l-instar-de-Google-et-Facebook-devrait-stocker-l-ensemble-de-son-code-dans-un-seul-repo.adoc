@@ -1,0 +1,32 @@
+= Jeudi 12:25 / 12:40 - Pourquoi votre entreprise, à l'instar de Google et Facebook, devrait stocker l'ensemble de son code dans un seul repo ?
+:toc:
+:toclevels: 3
+:toc-placement: preamble
+:lb: pass:[<br> +]
+:imagesdir: images
+:icons: font
+:source-highlighter: highlightjs
+
+Par Thierry Abaléa. +
+https://cfp.devoxx.fr/2017/talk/QXG-7186/Pourquoi_votre_entreprise_a_l_instar_de_Google_et_Facebook_devrait_stocker_l_ensemble_de_son_code_dans_un_seul_repo[Descriptif de la conférence sur le site du CFP de Devoxx] +
+icon:tags[] Key words : DevOps, Agile, Methodology & Tests
+
+// ifdef::env-github[]
+// https://www.youtube.com/watch?v=XXXXXX[vidéo de la présentation sur YouTube]
+// endif::[]
+// ifdef::env-browser[]
+// video::XXXXXX[youtube, width=640, height=480]
+// endif::[]
+
+
+== Partie I
+
+
+
+== Ressources
+
+
+
+== Mon avis
+
+

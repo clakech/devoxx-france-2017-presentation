@@ -1,0 +1,32 @@
+= Jeudi 18:55 / 19:25 - Apache Beam, live data discovery from the open NYC Taxi Trip Records stream
+:toc:
+:toclevels: 3
+:toc-placement: preamble
+:lb: pass:[<br> +]
+:imagesdir: images
+:icons: font
+:source-highlighter: highlightjs
+
+Par Robert Kubis. +
+https://cfp.devoxx.fr/2017/talk/SCA-4407/Apache_Beam,_live_data_discovery_from_the_open_NYC_Taxi_Trip_Records_stream[Descriptif de la conférence sur le site du CFP de Devoxx] +
+icon:tags[] Key words : Big Data, Machine Learning, IA & Analytics
+
+// ifdef::env-github[]
+// https://www.youtube.com/watch?v=XXXXXX[vidéo de la présentation sur YouTube]
+// endif::[]
+// ifdef::env-browser[]
+// video::XXXXXX[youtube, width=640, height=480]
+// endif::[]
+
+
+== Partie I
+
+
+
+== Ressources
+
+
+
+== Mon avis
+
+

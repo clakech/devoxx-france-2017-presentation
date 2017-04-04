@@ -1,0 +1,32 @@
+= Mercredi 13:30 / 16:30 - Large Scale Data Pipelines with Kafka, Spark Streaming and Cassandra
+
+:toclevels: 3
+:toc-placement: preamble
+:lb: pass:[<br> +]
+:imagesdir: images
+:icons: font
+:source-highlighter: highlightjs
+
+Par James Ward et Ryan Knight. +
+https://cfp.devoxx.fr/2017/talk/XWT-0731/Large_Scale_Data_Pipelines_with_Kafka,_Spark_Streaming_and_Cassandra[Descriptif de la conférence sur le site du CFP de Devoxx] +
+icon:tags[] Key words : Big Data, Machine Learning, IA & Analytics
+
+// ifdef::env-github[]
+// https://www.youtube.com/watch?v=XXXXXX[vidéo de la présentation sur YouTube]
+// endif::[]
+// ifdef::env-browser[]
+// video::XXXXXX[youtube, width=640, height=480]
+// endif::[]
+
+
+== Partie I
+
+
+
+== Ressources
+
+
+
+== Mon avis
+
+

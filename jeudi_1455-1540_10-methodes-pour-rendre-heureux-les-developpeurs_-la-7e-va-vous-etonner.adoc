@@ -1,0 +1,32 @@
+= Jeudi 14:55 / 15:40 - 10 méthodes pour rendre heureux les développeurs, la 7e va vous étonner !
+:toc:
+:toclevels: 3
+:toc-placement: preamble
+:lb: pass:[<br> +]
+:imagesdir: images
+:icons: font
+:source-highlighter: highlightjs
+
+Par Cyril Lakech et Romain Linsolas. +
+https://cfp.devoxx.fr/2017/talk/MQX-7143/10_methodes_pour_rendre_heureux_les_developpeurs_la_7e_va_vous_etonner[Descriptif de la conférence sur le site du CFP de Devoxx] +
+icon:tags[] Key words : DevOps, Agile, Methodology & Tests
+
+// ifdef::env-github[]
+// https://www.youtube.com/watch?v=XXXXXX[vidéo de la présentation sur YouTube]
+// endif::[]
+// ifdef::env-browser[]
+// video::XXXXXX[youtube, width=640, height=480]
+// endif::[]
+
+
+== Partie I
+
+
+
+== Ressources
+
+
+
+== Mon avis
+
+

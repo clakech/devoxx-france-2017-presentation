@@ -1,0 +1,32 @@
+= Mercredi 17:55 / 18:25 - Et si votre backend était une Google Spreadsheet ?
+:toc:
+:toclevels: 3
+:toc-placement: preamble
+:lb: pass:[<br> +]
+:imagesdir: images
+:icons: font
+:source-highlighter: highlightjs
+
+Par Frédéric Camblor. +
+https://cfp.devoxx.fr/2017/talk/UHJ-0617/Et_si_votre_backend_etait_une_Google_Spreadsheet_%3F[Descriptif de la conférence sur le site du CFP de Devoxx] +
+icon:tags[] Key words : Web, JS, HTML5 & UX
+
+// ifdef::env-github[]
+// https://www.youtube.com/watch?v=XXXXXX[vidéo de la présentation sur YouTube]
+// endif::[]
+// ifdef::env-browser[]
+// video::XXXXXX[youtube, width=640, height=480]
+// endif::[]
+
+
+== Partie I
+
+
+
+== Ressources
+
+
+
+== Mon avis
+
+

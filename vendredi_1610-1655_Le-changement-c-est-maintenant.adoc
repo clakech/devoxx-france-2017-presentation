@@ -1,0 +1,32 @@
+= Vendredi 16:10 / 16:55 - Le changement c'est maintenant!
+:toc:
+:toclevels: 3
+:toc-placement: preamble
+:lb: pass:[<br> +]
+:imagesdir: images
+:icons: font
+:source-highlighter: highlightjs
+
+Par Alain Hélaïli. +
+https://cfp.devoxx.fr/2017/talk/TDH-1697/Le_changement_c'est_maintenant![Descriptif de la conférence sur le site du CFP de Devoxx] +
+icon:tags[] Key words : DevOps, Agile, Methodology & Tests
+
+// ifdef::env-github[]
+// https://www.youtube.com/watch?v=XXXXXX[vidéo de la présentation sur YouTube]
+// endif::[]
+// ifdef::env-browser[]
+// video::XXXXXX[youtube, width=640, height=480]
+// endif::[]
+
+
+== Partie I
+
+
+
+== Ressources
+
+
+
+== Mon avis
+
+

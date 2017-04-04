@@ -1,0 +1,32 @@
+= Jeudi 09:20 / 09:40 - De la responsabilité des ingénieurs
+:toc:
+:toclevels: 3
+:toc-placement: preamble
+:lb: pass:[<br> +]
+:imagesdir: images
+:icons: font
+:source-highlighter: highlightjs
+
+Par Eric Sadin. +
+https://cfp.devoxx.fr/2017/talk/JAM-0695/De_la_responsabilite_des_ingenieurs[Descriptif de la conférence sur le site du CFP de Devoxx] +
+icon:tags[] Key words : Alternate Languages
+
+// ifdef::env-github[]
+// https://www.youtube.com/watch?v=XXXXXX[vidéo de la présentation sur YouTube]
+// endif::[]
+// ifdef::env-browser[]
+// video::XXXXXX[youtube, width=640, height=480]
+// endif::[]
+
+
+== Partie I
+
+
+
+== Ressources
+
+
+
+== Mon avis
+
+

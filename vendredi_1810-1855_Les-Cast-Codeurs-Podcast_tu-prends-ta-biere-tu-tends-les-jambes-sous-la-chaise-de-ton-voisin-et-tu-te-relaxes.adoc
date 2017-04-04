@@ -1,0 +1,32 @@
+= Vendredi 18:10 / 18:55 - Les Cast Codeurs Podcast : tu prends ta bière(*), tu tends les jambes sous la chaise de ton voisin et tu te relaxes
+:toc:
+:toclevels: 3
+:toc-placement: preamble
+:lb: pass:[<br> +]
+:imagesdir: images
+:icons: font
+:source-highlighter: highlightjs
+
+Par Emmanuel Bernard, Vincent Massol, Antonio Goncalves, Arnaud Héritier et Guillaume Laforge. +
+https://cfp.devoxx.fr/2017/talk/EHB-2573/Les_Cast_Codeurs_Podcast_:_tu_prends_ta_biere(*),_tu_tends_les_jambes_sous_la_chaise_de_ton_voisin_et_tu_te_relaxes[Descriptif de la conférence sur le site du CFP de Devoxx] +
+icon:tags[] Key words : Cloud & Scaling
+
+// ifdef::env-github[]
+// https://www.youtube.com/watch?v=XXXXXX[vidéo de la présentation sur YouTube]
+// endif::[]
+// ifdef::env-browser[]
+// video::XXXXXX[youtube, width=640, height=480]
+// endif::[]
+
+
+== Partie I
+
+
+
+== Ressources
+
+
+
+== Mon avis
+
+

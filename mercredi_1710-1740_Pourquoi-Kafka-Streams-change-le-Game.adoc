@@ -1,0 +1,32 @@
+= Mercredi 17:10 / 17:40 - Pourquoi Kafka Streams change le Game !
+:toc:
+:toclevels: 3
+:toc-placement: preamble
+:lb: pass:[<br> +]
+:imagesdir: images
+:icons: font
+:source-highlighter: highlightjs
+
+Par Fred CECILIA. +
+https://cfp.devoxx.fr/2017/talk/JZR-6594/Pourquoi_Kafka_Streams_change_le_Game_!_[Descriptif de la conférence sur le site du CFP de Devoxx] +
+icon:tags[] Key words : Big Data, Machine Learning, IA & Analytics
+
+// ifdef::env-github[]
+// https://www.youtube.com/watch?v=XXXXXX[vidéo de la présentation sur YouTube]
+// endif::[]
+// ifdef::env-browser[]
+// video::XXXXXX[youtube, width=640, height=480]
+// endif::[]
+
+
+== Partie I
+
+
+
+== Ressources
+
+
+
+== Mon avis
+
+

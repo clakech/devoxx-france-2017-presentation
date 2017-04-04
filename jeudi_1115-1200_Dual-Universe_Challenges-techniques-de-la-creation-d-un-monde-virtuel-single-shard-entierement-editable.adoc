@@ -1,0 +1,32 @@
+= Jeudi 11:15 / 12:00 - Dual Universe: Challenges techniques de la création d'un monde virtuel "single-shard" entièrement éditable
+:toc:
+:toclevels: 3
+:toc-placement: preamble
+:lb: pass:[<br> +]
+:imagesdir: images
+:icons: font
+:source-highlighter: highlightjs
+
+Par Jean-Christophe Baillie. +
+https://cfp.devoxx.fr/2017/talk/PRV-0895/Dual_Universe:_Challenges_techniques_de_la_creation_d'un_monde_virtuel_%22single-shard%22_entierement_editable[Descriptif de la conférence sur le site du CFP de Devoxx] +
+icon:tags[] Key words : Cloud & Scaling
+
+// ifdef::env-github[]
+// https://www.youtube.com/watch?v=XXXXXX[vidéo de la présentation sur YouTube]
+// endif::[]
+// ifdef::env-browser[]
+// video::XXXXXX[youtube, width=640, height=480]
+// endif::[]
+
+
+== Partie I
+
+
+
+== Ressources
+
+
+
+== Mon avis
+
+
