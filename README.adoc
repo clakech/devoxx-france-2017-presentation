@@ -8,7 +8,7 @@
 |===
 |Date				|Salle				|Type				|Description
 |09:30 / 12:30		|Neuilly 253		|University			|link:mercredi_0930-1230_Spark-adabra_Comment-construire-un-datalake.adoc[Spark-adabra : Comment construire un datalake !]
-|13:30 / 16:30		|Paris 202-203 Lab	|University			|link:mercredi_1330-1630_Large-Scale-Data-Pipelines-with-Kafka-Spark-Streaming-and-Cassandra.adoc[Large Scale Data Pipelines with Kafka, Spark Streaming and Cassandra]
+|13:30 / 16:30		|Paris 242-AB		|University			|link:mercredi_1330-1630_JavaEE-Micro-Profile-TypeScript-et-Angular-2.adoc[Enterprise Java MicroProfile TypeScript and Angular 2]
 |17:10 / 17:40		|Paris 242-AB		|Tools-in-Action	|link:mercredi_1710-1740_Pourquoi-Kafka-Streams-change-le-Game.adoc[Pourquoi Kafka Streams change le Game !]
 |17:55 / 18:25		|Neuilly 251		|Tools-in-Action	|link:mercredi_1755-1825_Et-si-votre-backend-etait-une-Google-Spreadsheet.adoc[Et si votre backend était une Google Spreadsheet ?]
 |18:40 / 19:10		|Maillot			|Tools-in-Action	|link:mercredi_1840-1910_JUnit-docker.adoc[JUnit-docker]

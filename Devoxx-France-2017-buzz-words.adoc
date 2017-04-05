@@ -17,6 +17,9 @@
 == Technos qui ont le vent en poupe
 
 * Kotlin
+* VueJS en force
+* Swagger pour la documentation d'API (maintenant utiliser par tous)
+* Kafka
 
 == Technos en perte de vitesse 
 
