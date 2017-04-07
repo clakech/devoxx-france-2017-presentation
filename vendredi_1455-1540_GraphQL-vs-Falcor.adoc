@@ -19,13 +19,63 @@ icon:tags[] Key words : Web, JS, HTML5 & UX
 // endif::[]
 
 
-== Partie I
+== Introduction
 
+Comment *récupérer des data d'un serveur* ?
 
+* REST
+* GraphQL
+* Falcor
 
-== Ressources
+NOTE: GraphQL et Falcor sont finalement un middleware vers une BDD
 
+== Comparaison
 
+* *GraphQL*
+** Langague pour écrire des requêtes
+** créé par Facebook
+** 1 seule lib serveur
+** c'est une spécification, avec plusieurs implémentations disponibles
+** forte adoption : de nombreux articles, ressources disponibles
+
+* *Falcor*
+** Netflix
+** un dialogue 
+** 1 lib serveur et 1 lib client
+** 1 seule implémentation
+** adoption faible, peu de ressources disponibles
+** la search request se trouve également dans la réponse
+
+Dans les 2 cas, c'est le client qui pilote.
+
+PHOTO 13
+
+== Demo sur le TAN (Transports de l'Agglomératin Nantaise)
+
+* *GraphQL*
+** auto-complétion
+** point noir : schéma à écrire
+
+* *Falcor*
+** tout ce qu'on retourne dans Falcor est dans le graphe, on ne peut pas récupérer quelque chose qui a été supprimé du graphe.
+** opération idem-potente disponible, comme le `PUT` HTTP !
+** *on a un objet Javascript virtuel* +
+-> on ne peut pas omettre des info dans la requête, comme on manipule un simili objet, pour un object avec structure _a.b.c_, on ne peut pas omettre _b_ et dire _a.b_, ce que permet GraphQL
+
+*La communauté est beaucoup plus active côté GraphQL*. +
+Côté Netflix, le modèle est un peu toujours le même : on pousse son outil sur GitHub, et après, ben plus personne... (ou presque)
+
+== REST vs GraphQL vs Falcor
+
+* Les cas d'usage de REST sont plus restreints.
+* GraphQL : de nombreux usages, mais besoin d'écrire le schéma
+* Falcor : le plus gros inconvénient, *le manque de communauté*
+
+== Pour conclure
+
+PHOTO 14
+
+A gauche du schéma, cela ne vaut pas le coup d'écrire le schéma GraphQL, d'où Falcor
 
 == Mon avis
 

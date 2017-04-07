@@ -24,8 +24,9 @@
 |09:45 / 10:05		|Amphi Bleu			|Keynote			|link:jeudi_0945-1005_Video-games_The-quest-for-smart-dumbness.adoc[Video games: The quest for smart dumbness.]
 |10:10 / 10:30		|Amphi Bleu			|Keynote			|link:jeudi_1010-1030_La-disruption-des-langues-a-commence.adoc[La disruption des langues a commencé.]
 |11:15 / 12:00		|Paris 243			|Conference			|link:jeudi_1115-1200_Dual-Universe_Challenges-techniques-de-la-creation-d-un-monde-virtuel-single-shard-entierement-editable.adoc[Dual Universe: Challenges techniques de la création d'un monde virtuel "single-shard" entièrement éditable]
-|12:05 / 12:20		|Neuilly 251		|Quickie			|link:jeudi_1205-1220_Introduction-a-la-detection-d-anomalies-avec-Graphite.adoc[Introduction à la détection d'anomalies avec Graphite]
-|12:25 / 12:40		|Maillot			|Quickie			|link:jeudi_1225-1240_Pourquoi-votre-entreprise-a-l-instar-de-Google-et-Facebook-devrait-stocker-l-ensemble-de-son-code-dans-un-seul-repo.adoc[Pourquoi votre entreprise, à l'instar de Google et Facebook, devrait stocker l'ensemble de son code dans un seul repo ?]
+|12:05 / 12:20		|					|					|PAUSE
+|12:25 / 12:40		|					|					|PAUSE
+|12:55 / 13:40		|Amphi Bleu			|Conference			|link:jeudi_1255-1340_Le_Streaming-d-API-pourquoi-et-comment-transformer-vos-APIs-statiques-en-donnees-temps-reel.adoc[Le Streaming d'API : pourquoi et comment transformer vos APIs statiques en données temps réel ?]
 |13:55 / 14:40		|Paris 242-AB		|Conference			|link:jeudi_1355-1440_Un-bot-pour-gerer-l-agenda-de-ta-conference.adoc[Un bot pour gérer l'agenda de ta conférence]
 |14:55 / 15:40		|Amphi Bleu			|Conference			|link:jeudi_1455-1540_10-methodes-pour-rendre-heureux-les-developpeurs_-la-7e-va-vous-etonner.adoc[10 méthodes pour rendre heureux les développeurs, la 7e va vous étonner !]
 |16:10 / 16:55		|Paris 242-AB		|Conference			|link:jeudi_1610-1655_Stream-Processing-avec-Apache-Flink.adoc[Stream Processing avec Apache Flink]
@@ -34,7 +35,7 @@
 |18:55 / 19:25		|Paris 243			|Tools-in-Action	|link:jeudi_1855-1925_Apache-Beam_live-data-discovery-from-the-open-NYC-Taxi-Trip-Records-stream.adoc[Apache Beam, live data discovery from the open NYC Taxi Trip Records stream]
 |19:45 / 20:35		|					|BOF 				|PAUSE
 |20:40 / 21:30		|					|BOF 				|PAUSE
-|21:35 / 22:25		|Neuilly 252 AB		|BOF 				|link:jeudi_2135-2225_Les-independants_une-espece-en-voie-de-developpement.adoc[Les indépendants, une espèce en voie de... développement ?]
+|21:35 / 22:25		|					|BOF 				|PAUSE
 |===
 
 == Vendredi
@@ -46,9 +47,9 @@
 |09:25 / 09:45		|Amphi Bleu			|Keynote 			|link:vendredi_0925-0945_Quel-droit-pour-les-robots.adoc[Quel droit pour les robots]
 |09:50 / 10:10		|Amphi Bleu			|Keynote 			|link:vendredi_0950-1010_Revolution-cyberindustrielle-en-France.adoc[Révolution cyberindustrielle en France]
 |10:15 / 10:35		|Amphi Bleu			|Keynote 			|link:vendredi_1015-1035_Human-Machine-Improvised-Theatre.adoc[Human / Machine Improvised Theatre]
-|11:15 / 12:00		|Amphi Bleu			|Conference 		|[red]*PAUSE AVANT MA CONF* ou link:vendredi_1115-1200_Ce-que-j-ai-appris-en-construisant-des-systemes-distribues.adoc[Ce que j'ai appris en construisant des systèmes distribués]
+|11:15 / 12:00		|Amphi Bleu			|Conference 		|PAUSE
 |12:05 / 12:20		|[red]*Neuilly 253*	|Quickie 			|https://github.com/Ardemius/unsafe-wizardry[[red]*Sorcellerie en Java : outrepasser les interdits avec sun.misc.Unsafe*]
-|12:25 / 12:40		|Paris 241			|Quickie 			|link:vendredi_1225-1240_Toi-aussi-tu-peux-rejoindre-une-des-meilleurs-startups.adoc[Toi aussi tu peux rejoindre une des meilleurs startups]
+|12:25 / 12:40		|					|		 			|PAUSE
 |12:55 / 13:40		|Maillot			|Conference 		|link:vendredi_1255-1340_CQRS-EventSourcing-par-la-pratique.adoc[CQRS/EventSourcing par la pratique]
 |13:55 / 14:40		|Amphi Bleu			|Conference 		|link:vendredi_1355-1440_Les-bornes-des-limites_comment-maintenir-de-la-coherence-dans-votre-architecture-microservices.adoc[Les bornes des limites : comment maintenir de la cohérence dans votre architecture microservices]
 |14:55 / 15:40		|Paris 241			|Conference 		|link:vendredi_1455-1540_GraphQL-vs-Falcor.adoc[GraphQL vs Falcor]

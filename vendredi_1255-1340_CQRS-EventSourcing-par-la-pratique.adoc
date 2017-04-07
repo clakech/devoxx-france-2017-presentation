@@ -19,13 +19,70 @@ icon:tags[] Key words : Architecture, Performance and Security
 // endif::[]
 
 
-== Partie I
+== Event Sourcing
 
+NOTE: *Event Sourcing* : pattern d'architecture +
+Se concentrer non pas sur l'état courant, mais sur les changements d'état amenant à cet état final.
 
+A un instant "t", on a sauvegardé tout ce qui s'est passé dans le passé.
+
+C'est un vieux pattern, qui revient très à la mode actuellement.
+
+Forces de l'Event Sourcing :
+
+* audit : on a tous  les évènements pour analyse ultérieure
+* analyse / debug : on dispose de toute la séquence métier
+* reprise de données : en rejouant nos évènements
+* performance : les implémentations de l'Event Sourcing reposent _généralement_ sur ces composants qui scallent bien.
+* excellent moyen de synchroniser son application avec d'autres.
+
+Suivre Jérémy CHASSAING
+
+PHOTO 8
+
+Importance des fonctions :
+
+* de décision : là on se trouve le métier
+* d'évolution : *PAS* de métier ici
+
+Il n'y a pas d'évènement qui n'ait pas de *cause unique* ! +
+Et cette cause, c'est une *commande*.
+
+Exemple concret avec le problème Sogé Multiplus sur lequel Clément travaille :
+
+PHOTO 9
+
+Multiplus est un orchestrateur de prix.
+
+Pour raisonner : création d'une *machine à état*.
+
+Je reçois un prix -> je marque la réception -> j'appelle la machine à état
+
+PHOTO 10
+
+Utilisation d'une Event Loop (= *1 seul thread*)
+
+PHOTO 11
+
+L'Eevnt Sourcing, c'est sauvegarder les évènements.
+
+== CQRS
+
+NOTE: *CQRS* = Command Query Responsability Segregation.
+
+Pourquoi utiliser CQRS :
+
+* pour séparer les responsabilité
+
+Retour d'XP : être progressif +
+Lors du passage à CQRS, Clément a commencé par n'envoyer *QUE* les évènements intéressants.
+
+PHOTO 12
 
 == Ressources
 
-
+Dénommer un évènementn n'est pas une chose aisée. +
+Voir le livre "_Anatomy of Domain Event_"
 
 == Mon avis
 

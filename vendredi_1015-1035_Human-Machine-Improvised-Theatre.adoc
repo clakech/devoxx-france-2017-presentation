@@ -19,13 +19,21 @@ icon:tags[] Key words : Big Data, Machine Learning, IA & Analytics
 // endif::[]
 
 
-== Partie I
+== Contenu du talk
 
+Et ça commence par une énorme bâche sur l'élection de Trump !
 
+Nous a fait une live demo de théêtre d'improvisation avec un robot.
+
+A.L.Ex est un réseau de neurones créé par Piotr : *Artificial Language Experiment*
+
+PHOTO 7
+
+A.L.Ex prend 1 mois pour être entraîné.
 
 == Ressources
 
-
+Revoir les slides pour récupérer celui des ressources (tout le code source du robot est disponible)
 
 == Mon avis
 

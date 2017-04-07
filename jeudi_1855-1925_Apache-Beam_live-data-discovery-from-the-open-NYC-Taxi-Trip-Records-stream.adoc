@@ -19,14 +19,39 @@ icon:tags[] Key words : Big Data, Machine Learning, IA & Analytics
 // endif::[]
 
 
-== Partie I
+== Introduction
 
+Robert travaille pour Google, et est Developer Advocate. +
+Ils sont là pour aider les devs à utiliser les produits Google
 
+NOTE: Apache Beam : portable parallel data processing 
+
+image::jeudi_1855_apache-beam_01.jpg[width="800"]
+
+== Get Started
+
+* https://beam.apache.org
+* easy to run your pipelines on Google Cloud Platform
+
+A Maven archetype is available for this kind of project
+
+== The project
+
+Open data for all New Yorkers : a lot of data available
+
+* *Streaming patterns*: Aggregating Time based Windows
+* *Streaming patterns*: *Session Windows*
+
+Sample of the main method :
+
+image::jeudi_1855_apache-beam_02.jpg[width="800"]
+
+Apache Beam : interface between the runner and how you write your processing pipeline
 
 == Ressources
 
-
-
-== Mon avis
-
-
+* @hostirosti
+* github.com/hostiroti
+* https://bigquery.cloud.google.com/table/nyc-tlc:yellow.trips
+* un repo GitHub existe pour le projet
+* https://googlecodelabs.github.io/cloudl-dataflow-nyx-taxi-tycoon/

@@ -19,14 +19,46 @@ icon:tags[] Key words : Big Data, Machine Learning, IA & Analytics
 // endif::[]
 
 
-== Partie I
+== Introduction
 
+Ce qui a changé (en bien !) avec les anciens bots : 
 
+* Machine Learning driven Natural Language Processing
+* ML-powered voice recognition
+
+== Développement du Bot (avec API.AI)
+
+En gros, ce bot est articulé autour de *API.AI* et *Google Cloud Functions*.
+
+il existe des bonnes pratiques de développement :
+
+* choix de la voix ?
+* ton informel, tutoiement
+* Sample dialogs & checklist : g.co/dev/ActionsChecklist
+
+Nicolas Martignole a développé, pour ce bot, un API Elasticsearch de recherche dans le CFP de Devoxx.
+
+En fait, comme d'habitude avec les produits Google, ce bot tourne beaucoup autour de l'utilisation / configuration de la plateforme Google déjà existante. +
+Biensûr, certains traitements sont à réaliser soi-même (le code derrière les webhooks par exemple).
+
+* Completely serverless & fully managed service
+* automatic scalling
+
+Utilisation des technos :
+
+* *Google Cloud Functions*
+* Node.js
+* *Ngrok* : secure internet tunnels to localhost. +
+Pour exposer son localhost sur Internet : on va finalement "mapper" un de ses ports sur une URL.
+
+Ce bot peut également être déployé sur d'autres plateformes (Slack, etc.)
 
 == Ressources
 
-
+* @glaforge
+* #devoxxbot
+* g.co/dev/ActionsDesign : conversation design guides
 
 == Mon avis
 
-
+Personnellement, j'ai eu un peu de mal à suivre le plan de la présentation.

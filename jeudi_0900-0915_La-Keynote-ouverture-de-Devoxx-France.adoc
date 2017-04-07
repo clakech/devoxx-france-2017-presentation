@@ -19,14 +19,38 @@ icon:tags[] Key words : Java, JVM, Javas SE/EE
 // endif::[]
 
 
-== Partie I
+== Retours sur la logistique du salon
 
+image::jeudi_0900_ouverture_01.jpg[width="800"]
 
+Retour par Antonio, Zouheir et Nicolas
 
-== Ressources
-
-
-
-== Mon avis
-
+* 2890 personnes
+{lb}
+* 18000 viennoiseries
+* 7900 sandwichs
+* 22000 bouteilles d'eau
+* 7 tonnes d'eau
+* 80 Go de stockage dans un cerveau
+* 224 Po à Devoxx 
+{lb}
+* plus de 900 (925) propositions de sujets +
+225 de prises, sélectionnnées par 16 personnes 
+* Tout est filmé, dispo sur YouTube (sauf les labs)
+** 240 heures de vidéo
+** soit 10 jours de vidéo non-stop
+** *2 espaces d'overflow*
+{lb}
+* Possibilité de voter pour une présentation via l'appliation mobile MyDevoxx
+{lb}
+* *Paninoxx* : remplir une planche de panini auprès des différents orgas pour gagner une place à Devoxx France 2018. +
+24 stickers différents, chacun à seulement 300 exemplaires.
+{lb}
+* Gros coup de main des étudiants de l'école 42
+* Une fois de plus les polos rouges sont top ! 
+{lb}
+* *Devoxx4Kids* aura lieu samedi 08/04/2017 (pour l'inscription, voir Devoxx4Kids.fr)
+{lb}
+* save the date ! *18/19/20 avril 2018 Devoxx France 2018*, 7e édition. +
+En 2017, le salon était complet à mi-février.
 

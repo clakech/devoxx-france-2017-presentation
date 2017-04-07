@@ -19,14 +19,35 @@ icon:tags[] Key words : Big Data, Machine Learning, IA & Analytics
 // endif::[]
 
 
-== Partie I
+== Introduction
 
+Quentin travaille chez Datastax (Cassandra)
 
+Le soir, travaille chez http://wwww.lapetitetranche.fr : expéditeur de saucissons +
 
-== Ressources
+* plus de 10 tonnes de saucissons envoyées avec amour !
+* créé en 2014
+* pic d'activité à Noël et pour la fête des pères
 
+== Timeseries
 
+NOTE: *Forecast* : prédiction des valeurs numériques de la timeseries dans le future
 
-== Mon avis
+Pour le forecast :
 
+* approche statistique
+* réseaux de neurones : Long Short Term memory
+* *Algorithme ML*
 
+== Live demo
+
+Avec Apache Zeppelin (notebook) & DSE (solution de Datastax avec Cassandra, SolR, etc.)
+
+NOTE: *Random Forest* : basé sur les arbres de décisions +
+Va créer des buckets logiques pour représenter certains cas.
+
+== Conclusion
+
+* *Random Forest capture automatiquement les saisonnalités* (*GROSSE* force de la solution) : pas d'indiqué que c'est Noël ou la fête des pères, c'est appris tout seul
+* des features doivent être créées sur des évènements non-prédictibles (comme des promotions)
+* *tout n'est pas prédictible* !

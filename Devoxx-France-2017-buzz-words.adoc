@@ -20,8 +20,19 @@
 * VueJS en force
 * Swagger pour la documentation d'API (maintenant utiliser par tous)
 * Kafka
+* Tout le monde a l'air d'être passé sur Slack ! :)
+* Scala tient bien son marché "de niche" dans le Big Data.
+* Machine Learning en force !
+* De façon générale, pour tout ce qui touchait au Big Data / Streaming -> `flatmap` à un moment ou un autre (un grand classique, on le savait déjà, mais là, il était vraiment partout)
 
-== Technos en perte de vitesse 
+== Technos en perte de vitesse
+
+REST semble sur le déclin comparé à d'autres technos (GraphQL, Falcor)
+
+== Synthèse
+
+Pour toute la partie Big Data (Deep Learning mis à part), les différents frameworks semblent plutôt simples d'utilisation. +
+La complexité semble être de savoir quand / quel traitement appliqué à nos data (_session Windows_, etc.)
 
 == Divers & ressources
 
