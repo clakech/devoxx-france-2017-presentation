@@ -66,7 +66,7 @@ Et faire des feature branch, c'est bien aussi (qui ça plante, c'est tout de mê
 
 == Types de jeux et algos
 
-PHOTO 16
+image::vendredi_1710_IA-bot_01.jpg[width="800"]
 
 Stratégies d'exploration des arbres de jeu :
 

@@ -27,14 +27,11 @@ Nous a fait une live demo de théêtre d'improvisation avec un robot.
 
 A.L.Ex est un réseau de neurones créé par Piotr : *Artificial Language Experiment*
 
-PHOTO 7
+image::vendredi_1015_impro_01.jpg[width="800"]
 
 A.L.Ex prend 1 mois pour être entraîné.
 
 == Ressources
 
 Revoir les slides pour récupérer celui des ressources (tout le code source du robot est disponible)
-
-== Mon avis
-
 

@@ -34,6 +34,6 @@ REST semble sur le déclin comparé à d'autres technos (GraphQL, Falcor)
 Pour toute la partie Big Data (Deep Learning mis à part), les différents frameworks semblent plutôt simples d'utilisation. +
 La complexité semble être de savoir quand / quel traitement appliqué à nos data (_session Windows_, etc.)
 
-== Divers & ressources
+*Conférences les mieux notées* (cf Cast Codeurs le vendredi soir) :
 
-
+image::vendredi_synthesys.jpg[width="800"]

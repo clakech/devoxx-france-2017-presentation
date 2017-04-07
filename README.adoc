@@ -55,6 +55,6 @@
 |14:55 / 15:40		|Paris 241			|Conference 		|link:vendredi_1455-1540_GraphQL-vs-Falcor.adoc[GraphQL vs Falcor]
 |16:10 / 16:55		|Maillot			|Conference 		|link:vendredi_1610-1655_Le-changement-c-est-maintenant.adoc[Le changement c'est maintenant!]
 |17:10 / 17:55		|Amphi Bleu			|Conference 		|link:vendredi_1710-1755_De-bronze-a-legendaire-comment-reussir-vos-IA-de-bot.adoc[De bronze à légendaire, comment réussir vos IA de bot]
-|18:10 / 18:55		|Neuilly 252 AB		|Conference 		|link:vendredi_1810-1855_Les-Cast-Codeurs-Podcast_tu-prends-ta-biere-tu-tends-les-jambes-sous-la-chaise-de-ton-voisin-et-tu-te-relaxes.adoc[Les Cast Codeurs Podcast : tu prends ta bière(*), tu tends les jambes sous la chaise de ton voisin et tu te relaxes]
+|18:10 / 18:55		|Neuilly 252 AB		|Conference 		|Les Cast Codeurs Podcast : tu prends ta bière(*), tu tends les jambes sous la chaise de ton voisin et tu te relaxes
 |===
 

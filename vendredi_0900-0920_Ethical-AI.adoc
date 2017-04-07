@@ -25,7 +25,7 @@ Francesca travaille pour IBM, côté Watson.
 
 AI ethics is a big domain of research.
 
-PHOTO 1
+image::vendredi_0900_ethical-AI_01.jpg[width="800"]
 
 *Augmented intelligence* = Human *PLUS* Machine
 

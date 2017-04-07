@@ -38,7 +38,7 @@ Forces de l'Event Sourcing :
 
 Suivre Jérémy CHASSAING
 
-PHOTO 8
+image::vendredi_1255_CQRS_01.jpg[width="800"]
 
 Importance des fonctions :
 
@@ -50,7 +50,7 @@ Et cette cause, c'est une *commande*.
 
 Exemple concret avec le problème Sogé Multiplus sur lequel Clément travaille :
 
-PHOTO 9
+image::vendredi_1255_CQRS_02.jpg[width="800"]
 
 Multiplus est un orchestrateur de prix.
 
@@ -58,11 +58,11 @@ Pour raisonner : création d'une *machine à état*.
 
 Je reçois un prix -> je marque la réception -> j'appelle la machine à état
 
-PHOTO 10
+image::vendredi_1255_CQRS_03.jpg[width="800"]
 
 Utilisation d'une Event Loop (= *1 seul thread*)
 
-PHOTO 11
+image::vendredi_1255_CQRS_04.jpg[width="800"]
 
 L'Eevnt Sourcing, c'est sauvegarder les évènements.
 
@@ -77,13 +77,10 @@ Pourquoi utiliser CQRS :
 Retour d'XP : être progressif +
 Lors du passage à CQRS, Clément a commencé par n'envoyer *QUE* les évènements intéressants.
 
-PHOTO 12
+image::vendredi_1255_CQRS_05.jpg[width="800"]
 
 == Ressources
 
 Dénommer un évènementn n'est pas une chose aisée. +
 Voir le livre "_Anatomy of Domain Event_"
-
-== Mon avis
-
 

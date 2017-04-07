@@ -48,7 +48,7 @@ Va me permettre de définir qui pourra accéder à mon évolution en prod. (ne v
 * `github/scientist` : framework en rails, permet d'exécuter dans votre code 2 versions de la même fonctionnalité. +
 Permet donc de comparer l'ancienne version à la nouvelle (limite même en prod)
 * `github/gh-ost` : spécifique à MySQL, permet de migrer en temps réel sur un autre schéma de BDD. +
-PHOTO 15
+image::vendredi_1610_changement_01.jpg[width="800"]
 
 == Ressources
 

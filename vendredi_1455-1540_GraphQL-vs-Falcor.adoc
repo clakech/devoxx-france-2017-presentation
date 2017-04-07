@@ -48,7 +48,7 @@ NOTE: GraphQL et Falcor sont finalement un middleware vers une BDD
 
 Dans les 2 cas, c'est le client qui pilote.
 
-PHOTO 13
+image::vendredi_1455_GraphQL-Falcor_01.jpg[width="800"]
 
 == Demo sur le TAN (Transports de l'Agglomératin Nantaise)
 
@@ -73,10 +73,6 @@ Côté Netflix, le modèle est un peu toujours le même : on pousse son outil su
 
 == Pour conclure
 
-PHOTO 14
+image::vendredi_1455_GraphQL-Falcor_02.jpg[width="800"]
 
 A gauche du schéma, cela ne vaut pas le coup d'écrire le schéma GraphQL, d'où Falcor
-
-== Mon avis
-
-
