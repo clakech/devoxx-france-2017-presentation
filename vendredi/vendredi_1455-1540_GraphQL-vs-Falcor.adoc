@@ -3,7 +3,7 @@
 :toclevels: 3
 :toc-placement: preamble
 :lb: pass:[<br> +]
-:imagesdir: images
+:imagesdir: ../images
 :icons: font
 :source-highlighter: highlightjs
 
